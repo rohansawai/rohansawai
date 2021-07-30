@@ -1,6 +1,11 @@
 ### Hi there 👋, I'm Rohan - the [sawairohan](https://github.com/rohansawai)
 <br>
 
+### 😁 Who am I?
+<br>
+My name is Rohan Sawai. I'm persuing BTech in Electronics and Telecommunications(EXTC) from VJTI, Mumbai'23.
+
+<br>
 - 🔭 I’m currently working on ... Python/C++
 - 🌱 I’m currently learning ... Neural Networks, DeepFake
 - 👯 I’m looking to collaborate on ... Research related to DeepFake
