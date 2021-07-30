@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Rohan - the (sawairohan)
-
+### Hi there 👋, I'm Rohan - the [sawairohan](https://github.com/rohansawai)
 
 
 
@@ -8,6 +7,6 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...[sawairohan90@gmail.com]
+- 📫 How to reach me: ...(sawairohan90@gmail.com)
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ...
