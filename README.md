@@ -13,7 +13,7 @@
 - 💻 Checkout my Projects: ... [Projects](https://github.com/rohansawai?tab=repositories)
 
 ### Languages and Frameworks
-![image](https://user-images.githubusercontent.com/62415467/127603676-e31fb4c8-4591-4eda-9663-03c7629ae89a.png)
+![image](https://user-images.githubusercontent.com/62415467/127603676-e31fb4c8-4591-4eda-9663-03c7629ae89a.png = 50*50)
 ![image](https://user-images.githubusercontent.com/62415467/127603690-ea5f8179-3c01-4608-80a2-01b95408380b.png)
 ![image](https://user-images.githubusercontent.com/62415467/127603704-c82704a8-387b-4761-92a0-fe1ef6386e72.png)
 ![image](https://user-images.githubusercontent.com/62415467/127603715-384e6ea6-31e2-4cb6-94d6-d7daa314d136.png)
