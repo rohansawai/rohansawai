@@ -24,6 +24,11 @@
 
 <br>
 
- ⚡ [Fake News Detection](https://github.com/rohansawai/FakeNewsDetection)
- ⚡ [Stockrr-Application](https://github.com/rohansawai/Stockrr-App)
- ⚡ [Geniune Charity Application]()
+#⚡ [Fake News Detection](https://github.com/rohansawai/FakeNewsDetection)
+ 
+#⚡ [Stockrr-Application](https://github.com/rohansawai/Stockrr-App)
+ 
+#⚡ [Geniune Charity Application]()
+
+
+
