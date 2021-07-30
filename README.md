@@ -6,6 +6,7 @@
 My name is Rohan Sawai. I'm persuing BTech in Electronics and Telecommunications(EXTC) from VJTI, Mumbai'23.
 
 <br>
+
 - 🔭 I’m currently working on ... Python/C++
 - 🌱 I’m currently learning ... Neural Networks, DeepFake
 - 👯 I’m looking to collaborate on ... Research related to DeepFake
@@ -25,15 +26,15 @@ My name is Rohan Sawai. I'm persuing BTech in Electronics and Telecommunications
 <br>
 <br>
 
-### 💻 My recent Projects
+### 💻 Take a look at my recent Projects
 
 <br>
 
-# ⚡ [Fake News Detection](https://github.com/rohansawai/FakeNewsDetection)
+ ⚡ [Fake News Detection](https://github.com/rohansawai/FakeNewsDetection)
  
-# ⚡ [Stockrr-Application](https://github.com/rohansawai/Stockrr-App)
+ ⚡ [Stockrr-Application](https://github.com/rohansawai/Stockrr-App)
  
-# ⚡ [Geniune Charity Application]()
+ ⚡ [Geniune Charity Application]()
 
 
 
