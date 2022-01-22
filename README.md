@@ -11,7 +11,6 @@ My name is Rohan Sawai. I'm persuing BTech in Electronics and Telecommunications
 - 🌱 I’m currently learning ... Neural Networks, DeepFake
 - 👯 I’m looking to collaborate on ... Research related to DeepFake
 - 📫 How to reach me: ... [G-Mail](sawairohan90@gmail.com)
-- 😄 Pronouns: ... He/His
 - 💻 Checkout my Projects: ... [Projects](https://github.com/rohansawai?tab=repositories)
 
 <br>
