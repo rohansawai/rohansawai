@@ -8,8 +8,7 @@ My name is Rohan Sawai. I'm persuing BTech in Electronics and Telecommunications
 <br>
 
 - 🔭 I’m currently working on ... Python/C++
-- 🌱 I’m currently learning ... Neural Networks, DeepFake
-- 👯 I’m looking to collaborate on ... Research related to DeepFake
+- 🌱 I’m currently learning ... Algo Trading,Neural Networks, DeepFake
 - 📫 How to reach me: ... [G-Mail](sawairohan90@gmail.com)
 - 💻 Checkout my Projects: ... [Projects](https://github.com/rohansawai?tab=repositories)
 
