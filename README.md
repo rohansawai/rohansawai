@@ -1,14 +1,14 @@
-### Hi there 👋, I'm Rohan - the [sawairohan](https://github.com/rohansawai)
+### Hi there 👋, I'm [Rohan](https://github.com/rohansawai)
 <br>
 
 ### 😁 Who am I?
 <br>
-My name is Rohan Sawai. I'm persuing BTech in Electronics and Telecommunications(EXTC) from VJTI, Mumbai'23.
+My name is Rohan Sawai. I have done my undergraduate in Electronics Engineering from VJTI, Mumbai'23.
 
 <br>
 
 - 🔭 I’m currently working on ... Python/C++
-- 🌱 I’m currently learning ... Algo Trading,Neural Networks, DeepFake
+- 🌱 I’m currently learning ... Algo Trading, Neural Networks, DeepFake
 - 📫 How to reach me: ... [G-Mail](sawairohan90@gmail.com)
 - 💻 Checkout my Projects: ... [Projects](https://github.com/rohansawai?tab=repositories)
 
