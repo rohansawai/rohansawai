@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **React, Typescript, NLP**.
 - 📫 How to reach me: ... [G-Mail](sawairohan90@gmail.com).
 - 💻 Checkout my Projects: ... [Projects](https://github.com/rohansawai?tab=repositories).
-- 📄 Know about my experiences [My Resume(https://drive.google.com/drive/folders/1KDGH70df0rBgXLpcC7HiADUbyC76uWF0?usp=sharing).
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1KDGH70df0rBgXLpcC7HiADUbyC76uWF0?usp=sharing).
 
 <br>
 <br>
