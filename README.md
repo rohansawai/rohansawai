@@ -2,14 +2,14 @@
 <br>
 
 <br>
-My name is Rohan Sawai. I have done my undergraduate in Electronics Engineering from VJTI, Mumbai'23.
 
-<br>
-
-- 🔭 I’m currently working on ... Python/C++
-- 🌱 I’m currently learning ... Algo Trading, Neural Networks, DeepFake
+<h3 align="left"> Fullstack Developer & Open source contributor</h3>
+- 🏫 Undergrad from VJTI Mumbai 
+- 🏠 From Mumbai, India.
+- 🌱 I’m currently learning **React, Typescript, NLP**
 - 📫 How to reach me: ... [G-Mail](sawairohan90@gmail.com)
 - 💻 Checkout my Projects: ... [Projects](https://github.com/rohansawai?tab=repositories)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1KDGH70df0rBgXLpcC7HiADUbyC76uWF0?usp=sharing)
 
 <br>
 <br>
