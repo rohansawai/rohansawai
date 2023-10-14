@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm [Rohan](https://github.com/rohansawai)
 <br>
 
-### 😁 Who am I?
 <br>
 My name is Rohan Sawai. I have done my undergraduate in Electronics Engineering from VJTI, Mumbai'23.
 
