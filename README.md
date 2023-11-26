@@ -7,7 +7,7 @@
 
 - 🏫 Undergrad from VJTI Mumbai.
 - 🏠 From Mumbai, India.
-- 🌱 I’m currently learning **React, Typescript, NLP**.
+- 🌱 I’m currently learning **NextJs, React, Typescript, Solidity**.
 - 📫 How to reach me: ... [G-Mail](sawairohan90@gmail.com).
 - 💻 Checkout my Projects: ... [Projects](https://github.com/rohansawai?tab=repositories).
 - 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1KDGH70df0rBgXLpcC7HiADUbyC76uWF0?usp=sharing).
