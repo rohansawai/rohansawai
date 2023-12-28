@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm [Rohan](https://github.com/rohansawai)
 <br>
-
-<br>
-
 <h3 align="left"> Fullstack Developer & Open source contributor</h3>
 
 - 🏫 Undergrad from VJTI Mumbai.
