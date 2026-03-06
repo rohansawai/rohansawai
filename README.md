@@ -22,10 +22,10 @@ Database time machine — capture, store, and replay every change.
 
 ### These are my socials incase you want to connect
 
-- Website [rohans-vault](https://rohans-vault.xyz/)
-- GitHub: [@rohansawai](https://github.com/rohansawai)
-- LinkedIn: [sawair](https://www.linkedin.com/in/sawair/)
-- X: [@rohan_sawai](https://x.com/rohan_sawai)
+- Website:   [rohans-vault](https://rohans-vault.xyz/)
+- GitHub:    [@rohansawai](https://github.com/rohansawai)
+- LinkedIn:  [sawair](https://www.linkedin.com/in/sawair/)
+- X:         [@rohan_sawai](https://x.com/rohan_sawai)
 
 ---
 
